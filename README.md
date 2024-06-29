@@ -22,8 +22,8 @@
 
 **C#:**
 
-Rider: https://www.jetbrains.com/ru-ru/rider/download/#section=linux
+* Rider: https://www.jetbrains.com/ru-ru/rider/download/#section=linux
 
 **C++:**
 
-CLion: https://www.jetbrains.com/clion/download/#section=linux
+* CLion: https://www.jetbrains.com/clion/download/#section=linux
