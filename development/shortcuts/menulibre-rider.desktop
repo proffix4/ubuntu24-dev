@@ -1,0 +1,9 @@
+[Desktop Entry]
+Version=1.1
+Type=Application
+Name=Rider
+Icon=/home/tsn/Development/Rider/bin/rider.png
+Exec=/home/tsn/Development/Rider/bin/rider.sh
+Actions=
+Categories=Development;
+StartupWMClass=jetbrains-rider

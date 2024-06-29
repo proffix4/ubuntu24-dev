@@ -1,0 +1,9 @@
+[Desktop Entry]
+Version=1.1
+Type=Application
+Name=CLion
+Icon=/home/tsn/Development/clion/bin/clion.png
+Exec=/home/tsn/Development/clion/bin/clion.sh
+Actions=
+Categories=Development;
+StartupWMClass=jetbrains-clion
