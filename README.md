@@ -2,23 +2,23 @@
 
 **Android:**
 
-Android Studio: https://developer.android.com/studio
+* Android Studio: https://developer.android.com/studio
 
 **Java:**
 
-Apache NetBeans: https://netbeans.apache.org/front/main/index.html
+* Apache NetBeans: https://netbeans.apache.org/front/main/index.html
 
-Русификация NetBeans: https://github.com/tsnsoft/rus_loc_for_netbeans
+* Русификация NetBeans: https://github.com/tsnsoft/rus_loc_for_netbeans
 
-IntelliJ IDEA Community Edition: https://www.jetbrains.com/idea/download/?section=linux
+* IntelliJ IDEA Community Edition: https://www.jetbrains.com/idea/download/?section=linux
 
-JavaSE8: https://www.oracle.com/java/technologies/javase/javase8-archive-downloads.html
+* JavaSE8: https://www.oracle.com/java/technologies/javase/javase8-archive-downloads.html
 
 **Python (wxPython):**
 
-PyCharm Community Edition: https://www.jetbrains.com/pycharm/download/?section=linux
+* PyCharm Community Edition: https://www.jetbrains.com/pycharm/download/?section=linux
 
-wxFormBuilder: https://github.com/wxFormBuilder/wxFormBuilder/releases
+* wxFormBuilder: https://github.com/wxFormBuilder/wxFormBuilder/releases
 
 **C#:**
 
