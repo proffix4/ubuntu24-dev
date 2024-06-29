@@ -1,0 +1,9 @@
+[Desktop Entry]
+Version=1.1
+Type=Application
+Name=Android Studio
+Icon=/home/tsn/Development/android-studio/bin/studio.png
+Exec=/home/tsn/Development/android-studio/bin/studio.sh
+Actions=
+Categories=Development;
+StartupWMClass=jetbrains-studio

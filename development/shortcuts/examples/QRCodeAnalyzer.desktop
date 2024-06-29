@@ -1,0 +1,11 @@
+[Desktop Entry]
+Version=1.1
+Type=Application
+Name=Посещаемость студентов
+NoDisplay=true
+Icon=/home/tsn/Documents/Университет/Посещаемость/QRCodeAnalyzer/logo.png
+Exec=/home/tsn/Documents/Университет/Посещаемость/QRCodeAnalyzer/QRCodeAnalyzer-ubuntu24_04
+Path=/home/tsn/Documents/Университет/Посещаемость/QRCodeAnalyzer/
+Actions=
+Categories=Education;
+StartupWMClass=QRCodeAnalyzer-ubuntu24_04

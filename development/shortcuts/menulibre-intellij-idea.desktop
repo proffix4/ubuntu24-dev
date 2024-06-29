@@ -1,0 +1,9 @@
+[Desktop Entry]
+Version=1.1
+Type=Application
+Name=IntelliJ IDEA
+Icon=/home/tsn/Development/idea-IC/bin/idea.png
+Exec=/home/tsn/Development/idea-IC/bin/idea.sh
+Actions=
+Categories=Development;
+StartupWMClass=jetbrains-idea-ce

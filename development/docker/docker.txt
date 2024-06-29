@@ -1,0 +1,24 @@
+https://ru.wikipedia.org/wiki/Docker
+https://timeweb.com/ru/community/articles/osnovnye-komandy-docker
+https://docs.docker.com/engine/install/ubuntu/
+https://docs.docker.com/engine/install/debian/
+https://hub.docker.com/r/nginxdemos/hello/
+https://github.com/dimitri/pgloader
+
+--------------------------
+
+sudo docker pull nginxdemos/hello
+sudo docker run -it --rm -p 8080:80 nginxdemos/hello
+http://127.0.0.1:8080/tsn
+
+--------------------------
+
+sudo docker container ls
+sudo docker container stop de040429f8c3
+sudo docker container rm 23bfb917fcf4 -f
+
+sudo docker image ls
+sudo docker image rm nginxdemos/hello -f
+sudo docker image rm 6746f7a38cc3 -f
+
+--------------------------
