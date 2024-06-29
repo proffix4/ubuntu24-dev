@@ -1,5 +1,3 @@
-# Ubuntu24-dev
-
 	Android:
 Android Studio: https://developer.android.com/studio
 

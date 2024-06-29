@@ -1,0 +1,9 @@
+[Desktop Entry]
+Version=1.1
+Type=Application
+Name=NetBeans
+Icon=/home/tsn/Development/netbeans/nb/netbeans.icns
+Exec=/home/tsn/Development/netbeans/bin/netbeans
+Actions=
+Categories=Development;
+StartupWMClass=Apache NetBeans IDE 22

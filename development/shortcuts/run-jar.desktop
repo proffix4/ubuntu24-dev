@@ -1,0 +1,13 @@
+[Desktop Entry]
+Type=Application
+Name[ru_RU]=run-jar
+X-GNOME-FullName[ru_RU]=run-jar
+Comment[ru_RU]=
+Icon=application-java
+NoDisplay=true
+Exec=java -jar %f
+Terminal=false
+X-GNOME-UsesNotifications=false
+Categories=Utility;
+MimeType=application/x-java-archive;
+Path=

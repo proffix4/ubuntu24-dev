@@ -1,0 +1,10 @@
+[Desktop Entry]
+Version=1.1
+Type=Application
+Name=Учебник Java в NetBeans
+Icon=/home/tsn/Software/TSN_EPS_PSU_2019/icon.png
+Exec=java -jar /home/tsn/Software/TSN_EPS_PSU_2019/TSN_EPS_PSU.jar
+Path=/home/tsn/Software/TSN_EPS_PSU_2019/
+Actions=
+Categories=Development;
+StartupWMClass=kz-tsn-eps2019-JFrame_Main

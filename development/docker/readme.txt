@@ -1,0 +1,1 @@
+https://localhost:9443/#!/2/docker/dashboard

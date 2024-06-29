@@ -1,0 +1,9 @@
+[Desktop Entry]
+Version=1.1
+Type=Application
+Name=PyCharm
+Icon=/home/tsn/Development/pycharmc/bin/pycharm.png
+Exec=/home/tsn/Development/pycharmc/bin/pycharm.sh
+Actions=
+Categories=Development;
+StartupWMClass=jetbrains-pycharm-ce
