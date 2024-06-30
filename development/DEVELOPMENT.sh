@@ -46,7 +46,6 @@ pip3 install mysql-connector-python pykson
 sudo apt-get install python3-wxgtk-media4.0 python3-wxgtk-webview4.0 python3-wxgtk4.0 python3-wxmplot python3-wxutils -y
 
 # JAVA -----------------------------------------
-sudo apt install 
 sudo apt install openjdk-17-jdk openjdk-17-jre
 sudo update-alternatives --config java
 java -version
