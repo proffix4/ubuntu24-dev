@@ -7,18 +7,18 @@ https://github.com/dimitri/pgloader
 
 --------------------------
 
-sudo docker pull nginxdemos/hello
-sudo docker run -it --rm -p 8080:80 nginxdemos/hello
+docker pull nginxdemos/hello
+docker run -it --rm -p 8080:80 nginxdemos/hello
 http://127.0.0.1:8080/tsn
 
 --------------------------
 
-sudo docker container ls
-sudo docker container stop de040429f8c3
-sudo docker container rm 23bfb917fcf4 -f
+docker container ls
+docker container stop de040429f8c3
+docker container rm 23bfb917fcf4 -f
 
-sudo docker image ls
-sudo docker image rm nginxdemos/hello -f
-sudo docker image rm 6746f7a38cc3 -f
+docker image ls
+docker image rm nginxdemos/hello -f
+docker image rm 6746f7a38cc3 -f
 
 --------------------------
